@@ -6,18 +6,7 @@ A quantitative research project submitted for the course **Quantitative Methods 
 
 ---
 
-## 👥 Team
 
-| Name | Student ID |
-|---|---|
-| Manveer Makkar | 2401030128 |
-| Prakhar Agnihotri | 2401030129 |
-| Rajan Palta | 2401030383 |
-| Prajwal Pratap Singh | 2401030371 |
-| Ronith Singh | 2401030143 |
-
-**Submitted to:** Dr. Amandeep Kaur  
-**Date:** 27 April 2026
 
 ---
 
