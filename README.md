@@ -48,13 +48,6 @@ wfh-mental-health/
 ├── Impact_of_Remote_Work_on_Mental_Health.csv         # Dataset (5,000 records, 20 variables)
 ├── QMSS_Report_WFH_Mental_Health.docx                 # Full project report (Word)
 │
-├── figures/                                           # Generated charts (auto-saved by notebook)
-│   ├── fig3_1_sample_dist.png
-│   ├── fig3_2_activity_bar.png
-│   ├── fig3_3_stress_bar.png
-│   ├── fig3_4_sleep_bar.png
-│   ├── fig3_5_wlb_boxplot.png
-│   └── fig3_6_hours_boxplot.png
 │
 └── requirements.txt                                   # Python dependencies
 ```
